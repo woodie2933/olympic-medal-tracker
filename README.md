@@ -22,7 +22,7 @@ https://github.com/woodie2933/olympic-medal-tracker.git
 
 ### :heavy_check_mark: **Development Period**
 
-2025/01/08 ~ 2025/01/17
+2025/01/22 ~ 2025/01/24
 
 <br/>
 <!-- 테크 스택 -->
